@@ -19,6 +19,7 @@
 ### Documentation
 - [Source Android](https://source.android.com/)
 - [Developer Android](https://developer.android.com/)
+- [elinux docs](https://elinux.org/Category:Android)
 
 ### Books
 - [Embedded Linux Karim Yaghmour](https://drive.google.com/file/d/1JyqRQI2prFCxLxOS9fqQFkYeago9A2dh/view?usp=sharing)
