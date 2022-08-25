@@ -4,6 +4,12 @@
 - [How to Create Contacts App in Android Studio?](https://www.geeksforgeeks.org/how-to-create-contacts-app-in-android-studio/)
 - [tomgregory website. Build systmes, etc](https://tomgregory.com/)
 - [CodePath Android Cliffnotes](https://guides.codepath.com/android)
+- [Android Developers, YouTube](https://www.youtube.com/c/AndroidDevelopers)
+- [Developers Android, Google](https://developer.android.com/)
+- [Source Android, Google](https://source.android.com/?hl=en)
+- [Google code archive](https://code.google.com/archive/)
+- [Google Git](https://android.googlesource.com/)
+- [Wires are Obsolete. Android, Embedded, iOS, Accessories. Generally trying to stay out of trouble](https://wiresareobsolete.com/)
 
 ### Android internel: bootloader, Kernel, Init, Zygote, Delvit, ART, etc
 - [Booting](https://en.wikipedia.org/wiki/Booting)
@@ -13,8 +19,22 @@
 - [How a CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA)
 - [Degging into Android startup](https://www.youtube.com/watch?v=5SQP0qfUDjI)
 - [Google I/O 2008 - Dalvik Virtual Machine Internals](https://www.youtube.com/watch?v=ptjedOZEXPM)
+- [Google I/O 2008 - Anatomy and Physiology of an Android](https://www.youtube.com/watch?v=G-36noTCaiA)
 - [What the Zygote!?](https://medium.com/@voodoomio/what-the-zygote-76f852d887d9)
 - [Understanding Android: Zygote and DalvikVM](https://stackoverflow.com/questions/9153166/understanding-android-zygote-and-dalvikvm)
+
+### Memory management
+- [An introduction to memory management and memory leaks on Android](https://medium.com/swlh/an-introduction-to-memory-management-and-memory-leaks-on-android-3dbd66d8a943)
+- [Lecture, paging](https://people.cs.umass.edu/~emery/classes/cmpsci377/current/notes/lecture_16_paging.pdf)
+- [Android Memory: the Ultimate Metric Guide](https://greenspector.com/en/android-memory-the-ultimate-metric-guide-2/#:~:text=Clean%20%2F%20Dirty%20memory%3A%20Dirty%20pages,other%20memory%20space%20like%20malloc.)
+
+### Android application architecture patterns
+- [Android - Архитектура MVVM (Model-View-ViewModel)](https://www.youtube.com/watch?v=bCH12ycXPeo)
+- [Android - Управление навигацией из ViewModel в архитектуре MVVM](https://www.youtube.com/watch?v=y02SQN_KkVg)
+- [Android - Избавляемся от Bundle (Saved State Module для MVVM)](https://www.youtube.com/watch?v=RsiCd-3JI2k)
+- [Android - Side-эффекты в MVVM: использование и реализация](https://www.youtube.com/watch?v=hayYAqxhEwM)
+- [Android - Построение MVVM-архитектуры для прототипирования небольших приложений](https://www.youtube.com/watch?v=bXI5x8QRXwo&t=28s)
+- [Android - Избавляемся от AndroidViewModel, рефакторим базовые классы проекта](https://www.youtube.com/watch?v=da49vfzZIg0&t=0s)
 
 ### Documentation
 - [Source Android](https://source.android.com/)
