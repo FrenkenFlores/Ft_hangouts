@@ -20,6 +20,7 @@
 - [Degging into Android startup](https://www.youtube.com/watch?v=5SQP0qfUDjI)
 - [Google I/O 2008 - Dalvik Virtual Machine Internals](https://www.youtube.com/watch?v=ptjedOZEXPM)
 - [Google I/O 2008 - Anatomy and Physiology of an Android](https://www.youtube.com/watch?v=G-36noTCaiA)
+- [Google I/O 2008 - Inside the Android Application Framework](https://www.youtube.com/watch?v=TkPiXRNee7A)
 - [What the Zygote!?](https://medium.com/@voodoomio/what-the-zygote-76f852d887d9)
 - [Understanding Android: Zygote and DalvikVM](https://stackoverflow.com/questions/9153166/understanding-android-zygote-and-dalvikvm)
 
