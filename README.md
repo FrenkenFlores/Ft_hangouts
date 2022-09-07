@@ -10,7 +10,7 @@
 - [Google code archive](https://code.google.com/archive/)
 - [Google Git](https://android.googlesource.com/)
 - [Wires are Obsolete. Android, Embedded, iOS, Accessories. Generally trying to stay out of trouble](https://wiresareobsolete.com/)
-
+- [Douglas Schmidt Youtube channel](https://www.youtube.com/c/DouglasSchmidt)
 ### Android internel: bootloader, Kernel, Init, Zygote, Delvit, ART, etc
 - [Booting](https://en.wikipedia.org/wiki/Booting)
 - [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
