@@ -23,7 +23,7 @@
 - [Google I/O 2008 - Inside the Android Application Framework](https://www.youtube.com/watch?v=TkPiXRNee7A)
 - [What the Zygote!?](https://medium.com/@voodoomio/what-the-zygote-76f852d887d9)
 - [Understanding Android: Zygote and DalvikVM](https://stackoverflow.com/questions/9153166/understanding-android-zygote-and-dalvikvm)
-
+- [Contact App | Java | SQLite | CRUD | Android App Development](https://youtube.com/playlist?list=PLNSnaPe-iLVKpRUqg1yv5JqM_4DQN8Ofo)
 ### Memory management
 - [An introduction to memory management and memory leaks on Android](https://medium.com/swlh/an-introduction-to-memory-management-and-memory-leaks-on-android-3dbd66d8a943)
 - [Lecture, paging](https://people.cs.umass.edu/~emery/classes/cmpsci377/current/notes/lecture_16_paging.pdf)
